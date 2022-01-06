@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+--> # I'm Christian Manzaraz
+## A JS Fullstack Developer 
+
 <!--
 **Manzaraz/Manzaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
