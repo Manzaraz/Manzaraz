@@ -1,6 +1,6 @@
 ### Hi there 👋
 
---> # I'm Christian Manzaraz
+# I'm Christian Manzaraz
 ## A JS Fullstack Developer 
 
 <!--
