@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-# I'm Christian Manzaraz
-## A JS Fullstack Developer 
+<p align="center" width="300">
+   <img align="center" width="200" src="https://i.ibb.co/vkWD1zT/manzi-Inside.png" alt="Christian Manzaraz" />
+   <h2 align="center">I'm Christian Manzaraz 👨🏻‍💻</h2>
+   <h3 align="center"><em>A Javascript Fullstack Developer</em> 👨🏻‍💻</h3>
+</p>
 
 **Manzaraz/Manzaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
