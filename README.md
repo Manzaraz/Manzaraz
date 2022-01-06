@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://i.ibb.co/vkWD1zT/manzi-Inside.png" alt="Christian Manzaraz" />
+   <img align="center" width="500" src="https://i.ibb.co/vkWD1zT/manzi-Inside.png" alt="Christian Manzaraz" />
    <h2 align="center">I'm Christian Manzaraz 👨🏻‍💻</h2>
    <h3 align="center"><em>A Javascript Fullstack Developer</em> 👨🏻‍💻</h3>
 </p>
