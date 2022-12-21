@@ -3,10 +3,12 @@
 <p align="center" width="300">
    <img align="center" width="500" src="https://i.ibb.co/vkWD1zT/manzi-Inside.png" alt="Christian Manzaraz" />
    <h2 align="center">...Soy Christian Manzaraz</h2>
-   <h3 align="center"><em>Un Desarrollador Full-stack en Javascript</em> 👨🏻‍💻</h3>
+   <h3 align="center"><em>Un Desarrollador Full-stack en Javascript... Y muy en breve Apple developer para iOs</em> 👨🏻‍💻</h3>
 </p>
 
 Soy un Fan de la tecnología, la música y el café, vivo en Tucumán, Argentina; y... sí, por si se lo preguntaban: también me gustan los 🐈 gatos.
+
+- ⏱️ ¡Última actualización! Estoy estudiando 👨🏽‍💻 Desarrollo en Swift através de la documentación oficial de Apple , y debo confesar que es la primera vez que siento mariposas en el estomago al aprender a programar en Swift, simplemente espero que esta inversión en tiempo para adquirir este conocimiento rinda prontamente sus frutos. Simplemente me emociono cada día más, al aprender algo nuevo en este nuevo lenguaje.
 
 - ⚡ Dato curioso ...
   Hace unos años empecé a investigar sobre "cómo obtener algunos datos de una red social" y fue entonces que entendí que puedo convertir la curiosidad por aprender algo nuevo, en un modo de vida. Y así, con Javascript en mano (o en mente, para ser más precisos), comencé a incursionar en este maravilloso mundo del Desarrollo Web y la Programación.
@@ -16,6 +18,7 @@ Soy un Fan de la tecnología, la música y el café, vivo en Tucumán, Argentina
 
 - 👯 Estoy buscando colaborar en...
    Un entorno de trabajo colaborativo, donde pueda poner en práctica lo que investigué sobre Metodologías Ágiles, SCRUM, las buenas prácticas, trabajar para conseguir los objetivos, aprender y colaborar trabajando en equipo.
+
 
 <!-- -
 Here are some ideas to get you started:
