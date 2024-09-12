@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 
 [![N|Solid](https://i.ibb.co/X58M6Vm/Manzi-Banner2x.png)](https://manzaraz.github.io)
 
-- 📫 ¿Cómo pueden contactarme?: ...
+- 📫 Let's Contact: ...
 
-| Red Social | Enlace                                  |
-| ---------- | --------------------------------------- |
-| Portfolio  | [https://manzaraz.github.io]            |
-| GitHub     | [https://github.com/Manzaraz]           |
-| LinkedIn   | [https://www.linkedin.com/in/manzaraz]  |
-| Twitter    | [https://twitter.com/MagnusManz]        |
-| Instagram  | [https://www.instagram.com/magnusmanz/] |
+| Social Media   | Link                                    |
+| -------------- | --------------------------------------- |
+| Portfolio      | [https://manzaraz.com.ar]               |
+| GitHub         | [https://github.com/Manzaraz]           |
+| LinkedIn       | [https://www.linkedin.com/in/manzaraz]  |
+| Twitter        | [https://twitter.com/MagnusManz]        |
+| Instagram      | [https://www.instagram.com/magnusmanz/] |
 
-## Gracias por visitar.👋🏼
+## Thanks for visiting.👋🏼
