@@ -1,31 +1,29 @@
-### 👋🏼 ¡Holas Totales!
+# 👋🏼 ¡Hello World!
 
 <p align="center" width="300">
    <img align="center" width="500" src="https://i.ibb.co/vkWD1zT/manzi-Inside.png" alt="Christian Manzaraz" />
-   <h2 align="center">...Soy Christian Manzaraz</h2>
-   <h3 align="center"><em>Un Desarrollador Full-stack en Javascript... Y muy en breve Apple developer para iOs</em> 👨🏻‍💻</h3>
+   <h2 align="center">I am Christian Manzaraz</h2>
+   <h3 align="center"><em>A Frontend Professor at DigitalHouse and a Full-Stack Developer in Javascript... I'm dreaming of becoming an iOS developer</em> 👨🏻‍💻</h3>
 </p>
 
-Soy un Fan de la tecnología, la música y el café, vivo en Tucumán, Argentina; y... sí, por si se lo preguntaban: también me gustan los 🐈 gatos.
+## My Passion for Mobile Development with Swift
 
-- ⏱️ ¡Última actualización! Estoy estudiando 👨🏽‍💻 Desarrollo en Swift através de la documentación oficial de Apple , y debo confesar que es la primera vez que siento mariposas en el estomago al aprender a programar en Swift, simplemente espero que esta inversión en tiempo para adquirir este conocimiento rinda prontamente sus frutos. Simplemente me emociono cada día más, al aprender algo nuevo en este nuevo lenguaje.
+Hello everyone! I'm a full-stack developer passionate about technology, music, and coffee. I live in Tucumán, Argentina, and I'm also a big cat lover.
+A few years ago, my curiosity to learn something new led me to explore the world of web development and programming with JavaScript. Since then, I've had the opportunity to work with various databases, such as PostgreSQL, MySQL, and MongoDB, using libraries like Sequelize, Express, and Node.js. However, my true passion has recently been ignited in mobile development, specifically with the Swift language.
 
-- ⚡ Dato curioso ...
-  Hace unos años empecé a investigar sobre "cómo obtener algunos datos de una red social" y fue entonces que entendí que puedo convertir la curiosidad por aprender algo nuevo, en un modo de vida. Y así, con Javascript en mano (o en mente, para ser más precisos), comencé a incursionar en este maravilloso mundo del Desarrollo Web y la Programación.
+## My Journey in Mobile Development with Swift:
 
-- 🌱 Actualmente estoy aprendiendo...
-   Tuve el agrado de trabajar con algunas bases de datos, como Postgre, MySQL y MongoDB, y para las consultas y enrutado utilicé librerías como sequielize, express y NodeJS. Sin embargo, debo confesar que he tomado un gustito especial por el Frontend, ya sea utilizando VanilllaJS o ReactJS, que junto con otras librerías y frameworks, no dejo de sorprenderme lo que se puede lograr en la UI con todas estas herramientas, que exigen de uno el aprendizaje continuo para estar a la vanguardia. Disfruto mucho de conocer y trabajar con librerias de estilos, como Bootstrap, Material UI, Styled-Components, Ant-Design, precompiladores como Sass y actualizarme en las nuevas implementciones en microservicios como las de firebase o métodos de pago, como Paypal, Strype.
+My curiosity and enthusiasm for mobile development have led me to delve deeper into learning Swift, Apple's primary language for creating applications for iOS, iPadOS, macOS, tvOS, and watchOS. I've had the chance to explore the UIKit and SwiftUI frameworks, and I'm very proud of my progress in data management using technologies like Core Data, SwiftData, and integrating them with services like Firebase.
+I'm excited to be able to bring my development skills to new environments, such as iOS, VisionOS, macOS, and watchOS. Each day, I'm more amazed as I learn something new in this language and see how I can transform my ideas into functional and attractive applications.
 
-- 👯 Estoy buscando colaborar en...
-   Un entorno de trabajo colaborativo, donde pueda poner en práctica lo que investigué sobre Metodologías Ágiles, SCRUM, las buenas prácticas, trabajar para conseguir los objetivos, aprender y colaborar trabajando en equipo.
+Seeking Collaboration in an Agile Environment Now, I'm looking for opportunities to collaborate in a work environment where I can put into practice what I've learned about agile methodologies, SCRUM, and best development practices. I'm excited about the idea of working in a team, learning from my colleagues, and contributing to the achievement of objectives.
+Thank you for visiting my profile! I hope to be able to share more of my passion for mobile development with Swift in the future.
 
+- 🔭 I am currently working at Digital House and as a Freelance Frontend Developer 
+- 🤔 I am looking for a job as a Mobile Developer with Swift
 
 <!-- -
 Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
   -->
